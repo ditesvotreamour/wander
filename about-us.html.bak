@@ -19,7 +19,7 @@
     <body> 
         
         <!-- Start Header -->
-        <nav class="navbar navbar-default fullwidth">
+        <nav class="navbar navbar-default fullwidth transparent dark-menu">
             <div class="container">
                 
                 <div class="navbar-header">
@@ -270,179 +270,244 @@
             </div>
         </nav>
         <!-- End Header -->
+        
+        <!-- Page Hero -->
+        <section class="page-title parallax bg-img-4">  
+            <div class="page-title-content"> 
+                <div class="container">   
+                    <div class="col-sm-12 text-center">
+                        <h1 class="white-until-load">We Are <span class="bold">Creative</span></h1>
+                        <hr class="separator">
+                        <h5 class="subheading white-until-load">TAKING OVER THE WORLD WITH SURPRISE.</h5> 
+                    </div> 
+                </div>
+            </div>    
+        </section>
+        <!-- End Page Hero -->            
             
-        <!-- Single Portfolio Content Section -->
-        <section class="portfolio-project">
-            <div class="container">
-                <div class="row"> 
+        <!-- Our Mission -->
+        <section class="pt70 pb70"> 
+            <div class="container">   
+                <div class="row">
 
-                    <div class="col-md-9 mb30">
-                        <div class="cbp" id="js-masonry-boxed">
+                    <div class="col-md-4 text-left text-center-sm-xs mt30 mb40">   
+                        <h3>Taking over the world</h3>       
+                    </div>
 
-                        <div class="cbp-item print branding">
-                            <a href="img/portfolio/masonry/1.jpg" class="cbp-caption cbp-lightbox">
-                                <div class="cbp-caption-defaultWrap">
-                                    <img src="img/portfolio/masonry/1.jpg">
-                                </div>
-                                <div class="cbp-caption-activeWrap">
-                                    <div class="cbp-l-caption-alignCenter">
-                                        <div class="cbp-l-caption-body">
-                                            <div class="cbp-l-caption-title"><i class="icon-magnifying-glass size-1x"></i></div> 
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="cbp-item web-design graphic">
-                            <a href="img/portfolio/masonry/2.jpg" class="cbp-caption cbp-lightbox">
-                                <div class="cbp-caption-defaultWrap">
-                                    <img src="img/portfolio/masonry/2.jpg">
-                                </div>
-                                <div class="cbp-caption-activeWrap">
-                                    <div class="cbp-l-caption-alignCenter">
-                                        <div class="cbp-l-caption-body">
-                                            <div class="cbp-l-caption-title"><i class="icon-magnifying-glass size-1x"></i></div> 
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="cbp-item print branding">
-                            <a href="img/portfolio/masonry/3.jpg" class="cbp-caption cbp-lightbox">
-                                <div class="cbp-caption-defaultWrap">
-                                    <img src="img/portfolio/masonry/3.jpg">
-                                </div>
-                                <div class="cbp-caption-activeWrap">
-                                    <div class="cbp-l-caption-alignCenter">
-                                        <div class="cbp-l-caption-body">
-                                            <div class="cbp-l-caption-title"><i class="icon-magnifying-glass size-1x"></i></div> 
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="cbp-item print branding">
-                            <a href="img/portfolio/masonry/4.jpg" class="cbp-caption cbp-lightbox">
-                                <div class="cbp-caption-defaultWrap">
-                                    <img src="img/portfolio/masonry/4.jpg">
-                                </div>
-                                <div class="cbp-caption-activeWrap">
-                                    <div class="cbp-l-caption-alignCenter">
-                                        <div class="cbp-l-caption-body">
-                                            <div class="cbp-l-caption-title"><i class="icon-magnifying-glass size-1x"></i></div> 
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div> 
-                        <div class="cbp-item print graphic">
-                            <a href="img/portfolio/masonry/5.jpg" class="cbp-caption cbp-lightbox">
-                                <div class="cbp-caption-defaultWrap">
-                                    <img src="img/portfolio/masonry/5.jpg">
-                                </div>
-                                <div class="cbp-caption-activeWrap">
-                                    <div class="cbp-l-caption-alignCenter">
-                                        <div class="cbp-l-caption-body">
-                                            <div class="cbp-l-caption-title"><i class="icon-magnifying-glass size-1x"></i></div> 
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="cbp-item web-design branding">
-                            <a href="img/portfolio/masonry/6.jpg" class="cbp-caption cbp-lightbox">
-                                <div class="cbp-caption-defaultWrap">
-                                    <img src="img/portfolio/masonry/10.jpg">
-                                </div>
-                                <div class="cbp-caption-activeWrap">
-                                    <div class="cbp-l-caption-alignCenter">
-                                        <div class="cbp-l-caption-body">
-                                            <div class="cbp-l-caption-title"><i class="icon-magnifying-glass size-1x"></i></div> 
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-
-                        <div class="cbp-item web-design graphic">
-                            <a href="img/portfolio/masonry/7.jpg" class="cbp-caption cbp-lightbox">
-                                <div class="cbp-caption-defaultWrap">
-                                    <img src="img/portfolio/masonry/7.jpg">
-                                </div>
-                                <div class="cbp-caption-activeWrap">
-                                    <div class="cbp-l-caption-alignCenter">
-                                        <div class="cbp-l-caption-body">
-                                            <div class="cbp-l-caption-title"><i class="icon-magnifying-glass size-1x"></i></div> 
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="cbp-item web-design">
-                            <a href="img/portfolio/masonry/8.jpg" class="cbp-caption cbp-lightbox">
-                                <div class="cbp-caption-defaultWrap">
-                                    <img src="img/portfolio/masonry/8.jpg">
-                                </div>
-                                <div class="cbp-caption-activeWrap">
-                                    <div class="cbp-l-caption-alignCenter">
-                                        <div class="cbp-l-caption-body">
-                                            <div class="cbp-l-caption-title"><i class="icon-magnifying-glass size-1x"></i></div> 
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>  
-                        <div class="cbp-item web-design branding">
-                            <a href="img/portfolio/masonry/9.jpg" class="cbp-caption cbp-lightbox">
-                                <div class="cbp-caption-defaultWrap">
-                                    <img src="img/portfolio/masonry/9.jpg">
-                                </div>
-                                <div class="cbp-caption-activeWrap">
-                                    <div class="cbp-l-caption-alignCenter">
-                                        <div class="cbp-l-caption-body">
-                                            <div class="cbp-l-caption-title"><i class="icon-magnifying-glass size-1x"></i></div> 
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-
-                    </div> 
-                        <div class="mt20">
-                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nam at velit nisl. Aenean vitae est nisl. Cras molestie molestie nisl vel imperdiet. Donec vel mi sem.</p>
-                        </div>
-                    </div> 
-
-                    <div class="col-md-3"> 
-                        <h3>Project Gallery</h3>
-                        <div class="sidebar-share pl10"> 
-                            <ul class="list-inline">
-                                <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
-                                <li><a href="#"><i class="ti-facebook"></i></a></li>
-                                <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                                <li><a href="#"><i class="ti-pinterest-alt"></i></a></li> 
-                                <li><a href="#"><i class="ti-google"></i></a></li> 
-                            </ul>
-                        </div>
-                        <p>Praesent consectetur ligula eget elit pretium, eget porttitor sem rhoncus. Duis sodales turpis vel tempus pharetra. Pellentesque molestie consectetur justo at sodales. Nullam sollicitudin eget massa ut euismod. Donec vel turpis est. Cras urna sem, malesuada, viverra eget erat. Nullam sem.</p>
-                        <ul class="project-category-list">
-                            <li><i class="ion-android-checkmark-circle"></i>Branding</li>
-                            <li><i class="ion-android-checkmark-circle"></i>Design</li>
-                            <li><i class="ion-android-checkmark-circle"></i>Graphics</li> 
-                        </ul>
-                        <ul class="project-info">
-                            <li><strong>Client</strong>Amanda Welsh</li>
-                            <li><strong>Date</strong>16.08.2016</li>
-                            <li><strong>Link</strong>www.somedomain.com</li> 
-                        </ul>
-
+                    <div class="col-md-8 text-center-sm text-center-xs mt40 mb20">  
+                        <p>We believe in the power of surprise to build brands, solve problems and kindly take over the world.</p>
+                        <p>Heat exists to bring powerful, brilliant, creative ideas to life. The kind of ideas that catch you off guard. Or make you smile. Ideas that bring people in and make them a part of the journey. Told with wit and craft, beauty and design. They can be big or small, sexy or subtle. And they’re a better alternative than bludgeoning people’s eyes and ear. Unless you actually manufacture bludgeons. In that case we’d make an exception.</p>
+                        <p>Oh, and we’re serious about the taking over the world part. We help our clients do it everyday. While crushing no souls in the process. We just like it better that way.</p>
                     </div>
 
                 </div>
             </div>
         </section>
-        <!-- End Single Portfolio Content Section -->  
+        <!-- End Our Mission -->
+
+        <!-- How -->
+        <section class="pt70 pb50 bg-grey"> 
+            <div class="container">   
+                <div class="row"> 
+
+                    <div class="col-md-4 text-left text-center-sm-xs mt20 mb40">   
+                        <h3>How we're doing it</h3>       
+                    </div>
+
+                    <div class="col-md-8">  
+                        <div class="col-md-4 col-sm-4 feature-left-stack">
+                            <i class="icon-telescope size-6x"></i>
+                            <i class="icon-telescope back-icon"></i> 
+                            <h5>UX Strategy</h5>
+                            <p>Lorem ipsum dolor sit amet, consctetuer adipising.</p> 
+                        </div>
+                        <div class="col-md-4 col-sm-4 feature-left-stack">
+                            <i class="icon-streetsign size-6x"></i>
+                            <i class="icon-streetsign back-icon"></i>  
+                            <h5>Story &amp; Content</h5>
+                            <p>Lorem ipsum dolor sit amet, consctetuer adipising.</p>  
+                        </div>
+                        <div class="col-md-4 col-sm-4 feature-left-stack">
+                            <i class="icon-genius size-6x"></i>
+                            <i class="icon-genius back-icon"></i>  
+                            <h5>Digital Marketing</h5>
+                            <p>Lorem ipsum dolor sit amet, consctetuer adipising.</p> 
+                        </div> 
+                    </div> 
+
+                </div>
+            </div>
+        </section>
+        <!-- End How -->
+
+        <!-- Fun Facts -->
+        <section id="fun-facts" class="bg-dark">
+            <div class="container-fluid"> 
+                <div class="row">
+
+                    <div class="col-sm-3 counter"> 
+                        <h1>140</h1> 
+                        <h5>Happy Customers</h5> 
+                    </div>
+                    <div class="col-sm-3 counter"> 
+                        <h1>385</h1> 
+                        <h5>Finished Projects</h5> 
+                    </div>
+                    <div class="col-sm-3 counter"> 
+                        <h1>896</h1> 
+                        <h5>Tickets Solved</h5> 
+                    </div> 
+                    <div class="col-sm-3 counter"> 
+                        <h1>25</h1> 
+                        <h5>Winning Awards</h5> 
+                    </div>
+
+                </div> 
+            </div>
+        </section>
+        <!-- End Fun Facts -->  
+
+        <!-- Team -->
+        <section> 
+            <div class="container-fluid">    
+                <div class="row team-fullwidth">      
+
+                    <div class="col-md-15 col-sm-6 team"> 
+                        <div class="team-container">
+                            <div class="team-image">
+                                <img src="img/team/1.jpg" class="img-responsive" alt="" />
+                            </div> 
+                            <div class="team-caption">
+                                <div>
+                                    <div>
+                                        <h4>John Westbrook</h4>
+                                        <p>Senior Web Developer</p>
+                                        <ul> 
+                                            <li class="social-icon"><a href="#"><i class="ion-social-facebook"></i></a></li>
+                                            <li class="social-icon"><a href="#"><i class="ion-social-twitter"></i></a></li>
+                                            <li class="social-icon"><a href="#"><i class="ion-social-youtube"></i></a></li> 
+                                        </ul> 
+                                    </div>
+                                </div>
+                            </div>  
+                        </div> 
+                    </div>            
+
+                    <div class="col-md-15 col-sm-6 team">
+                        <div class="team-container">
+                            <div class="team-image">
+                                <img src="img/team/2.jpg" class="img-responsive" alt="" />
+                            </div> 
+                            <div class="team-caption">
+                                <div>
+                                    <div>
+                                        <h4>Kelly Swanson</h4>
+                                        <p>Marketing Manager</p>
+                                        <ul> 
+                                            <li class="social-icon"><a href="#"><i class="ion-social-facebook"></i></a></li>
+                                            <li class="social-icon"><a href="#"><i class="ion-social-twitter"></i></a></li>
+                                            <li class="social-icon"><a href="#"><i class="ion-social-youtube"></i></a></li> 
+                                            <li class="social-icon"><a href="#"><i class="ion-social-linkedin"></i></a></li>
+                                        </ul> 
+                                    </div>
+                                </div>
+                            </div>  
+                        </div>    
+                    </div> 
+
+                    <div class="col-md-15 col-sm-6 team">
+                        <div class="team-container">
+                            <div class="team-image">
+                                <img src="img/team/3.jpg" class="img-responsive" alt="" />
+                            </div> 
+                            <div class="team-caption">
+                                <div>
+                                    <div>
+                                        <h4>Chris Holland</h4>
+                                        <p>Motion Graphics</p>
+                                        <ul> 
+                                            <li class="social-icon"><a href="#"><i class="ion-social-facebook"></i></a></li>
+                                            <li class="social-icon"><a href="#"><i class="ion-social-twitter"></i></a></li>
+                                            <li class="social-icon"><a href="#"><i class="ion-social-youtube"></i></a></li>
+                                            <li class="social-icon"><a href="#"><i class="ion-social-dribbble"></i></a></li>
+                                            <li class="social-icon"><a href="#"><i class="ion-social-linkedin"></i></a></li>
+                                        </ul> 
+                                    </div>
+                                </div>
+                            </div>  
+                        </div>  
+                    </div>
+
+                    <div class="col-md-15 col-sm-6 team"> 
+                        <div class="team-container">
+                            <div class="team-image">
+                                <img src="img/team/4.jpg" class="img-responsive" alt="" />
+                            </div> 
+                            <div class="team-caption">
+                                <div>
+                                    <div>
+                                        <h4>Linda Whittier</h4>
+                                        <p>Marketing Officer</p>
+                                        <ul> 
+                                            <li class="social-icon"><a href="#"><i class="ion-social-facebook"></i></a></li>
+                                            <li class="social-icon"><a href="#"><i class="ion-social-twitter"></i></a></li>
+                                            <li class="social-icon"><a href="#"><i class="ion-social-youtube"></i></a></li> 
+                                        </ul> 
+                                    </div>
+                                </div>
+                            </div>  
+                        </div> 
+                    </div>            
+
+                    <div class="col-md-15 col-sm-6 team">
+                        <div class="team-container">
+                            <div class="team-image">
+                                <img src="img/team/5.jpg" class="img-responsive" alt="" />
+                            </div> 
+                            <div class="team-caption">
+                                <div>
+                                    <div>
+                                        <h4>Jamie Gossett</h4>
+                                        <p>Sales Officer</p>
+                                        <ul> 
+                                            <li class="social-icon"><a href="#"><i class="ion-social-facebook"></i></a></li>
+                                            <li class="social-icon"><a href="#"><i class="ion-social-twitter"></i></a></li>
+                                            <li class="social-icon"><a href="#"><i class="ion-social-youtube"></i></a></li> 
+                                            <li class="social-icon"><a href="#"><i class="ion-social-linkedin"></i></a></li>
+                                        </ul> 
+                                    </div>
+                                </div>
+                            </div>  
+                        </div>    
+                    </div>     
+
+                </div>  
+            </div>
+        </section>
+        <!-- End Team --> 
         
+        <!-- Clients Section -->
+        <section class="pt70 pb70">
+            <div class="container"> 
+                <div class="row">	 
+
+                    <div id="clients-slider-2" class="owl-carousel">
+                        <div><img src="img/clients/1.png" class="img-responsive" alt="#"></div>  
+                        <div><img src="img/clients/2.png" class="img-responsive" alt="#"></div> 
+                        <div><img src="img/clients/3.png" class="img-responsive" alt="#"></div> 
+                        <div><img src="img/clients/4.png" class="img-responsive" alt="#"></div> 
+                        <div><img src="img/clients/5.png" class="img-responsive" alt="#"></div> 
+                        <div><img src="img/clients/6.png" class="img-responsive" alt="#"></div> 
+                        <div><img src="img/clients/7.png" class="img-responsive" alt="#"></div> 
+                        <div><img src="img/clients/8.png" class="img-responsive" alt="#"></div> 
+                        <div><img src="img/clients/9.png" class="img-responsive" alt="#"></div> 
+                    </div>
+
+                </div>
+            </div>
+        </section>
+        <!-- End Clients -->   
+            
         <!-- Footer One -->
         <footer id="footer-1">
 

@@ -271,137 +271,20 @@
         </nav>
         <!-- End Header -->
         
-        <!-- Page Hero -->
-        <section class="page-title parallax overlay bg-img-1">  
-            <div class="page-title-content"> 
-                <div class="container">   
-                    <div class="col-sm-12 text-center white">
-                        <h1>Our Capabilities</h1>
-                        <hr class="separator">
-                        <h5 class="subheading">TAKING OVER THE WORLD WITH SURPRISE.</h5> 
-                    </div> 
+        <!-- Hero -->
+        <section class="hero-fullscreen error-page overlay bg-img-1">  
+            <div class="hero-container">  
+                <div class="hero-content">   
+                        
+                    <h2 class="color subheading mt30">404</h2>  
+                    <h1 class="large white mb30">Page Not Found</h1>   
+                    <p class="white">The page you requested couldn't be found, it has been removed<br>or moved and the URL was not changed accordingly.</p> 
+                    <a href="index.html" class="btn btn-primary btn-md mt40"><i class="ion-arrow-left-c"></i> Back to home page</a>
+                    
                 </div>
             </div>    
         </section>
-        <!-- End Page Hero -->          
-            
-        <!-- Features -->  
-        <section class="pt110 pb100">
-            <div class="container">                      
-                <div class="row">     
-
-                    <div class="col-md-8 mr-auto text-center">   
-                        <div class="icon-tabs-centered">
-
-                            <ul id="iconTabs" class="nav nav-tabs nav-tabs-center">
-                                <li class="active"><a href="#tab-i1" data-toggle="tab"><span class="icon-tab ion-ios-flask-outline"></span><span>Experiences</span></a></li>
-                                <li class=""><a href="#tab-i2" data-toggle="tab"><span class="icon-tab ion-ios-bolt-outline"></span><span>Work We Do</span></a></li>
-                                <li class=""><a href="#tab-i3" data-toggle="tab"><span class="icon-tab ion-ios-infinite-outline"></span><span>Capabilities</span></a></li>
-                                <li class=""><a href="#tab-i4" data-toggle="tab"><span class="icon-tab ion-ios-mic-outline"></span><span>Our Mission</span></a></li>
-                            </ul>
-
-                            <div id="myTabContent" class="tab-content">
-
-                                <div class="tab-pane fade active in" id="tab-i1">                                          
-                                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores.</p> 
-                                </div> 
-                                <div class="tab-pane fade" id="tab-i2"> 
-                                    <p>Sed scelerisque urna id scelerisque tincidunt. Sed scelerisque laoreet dolor sed aliquam. Duis at eros vehicula, sollicitudin magna elementum, pretium diam. Vivamus bibendum fringilla mauris et rhoncus. Phasellus mattis egestas risus ac tempor. Nam dapibus sodales ornare. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
-                                </div> 
-                                <div class="tab-pane fade" id="tab-i3"> 
-                                    <p>Sed scelerisque urna id scelerisque tincidunt. Sed scelerisque laoreet dolor sed aliquam. Duis at eros vehicula, sollicitudin magna elementum, pretium diam. Vivamus bibendum fringilla mauris et rhoncus. Phasellus mattis egestas risus ac tempor. Nam dapibus sodales ornare.</p>
-                                </div> 
-                                <div class="tab-pane fade" id="tab-i4"> 
-                                    <p>Sed scelerisque urna id scelerisque tincidunt. Sed scelerisque laoreet dolor sed aliquam. Duis at eros vehicula, sollicitudin magna elementum, pretium diam. Vivamus bibendum fringilla mauris et rhoncus. Sed scelerisque urna id scelerisque tincidunt. Phasellus mattis egestas risus ac tempor. Nam dapibus sodales ornare.</p>
-                                </div>
-
-                            </div>
-
-                        </div> 
-                    </div> 
-
-                </div>
-            </div>
-        </section>
-        <!-- End Features -->    
-        
-        <!-- Start Price List -->
-        <section class="pt120 pb100 bg-grey">
-            <div class="container">
-                <div class="row"> 
-
-                    <div class="col-md-3 price-table">
-                        <div class="price-box"> 
-                            <h4>Basic</h4>
-                            <h2 class="price-price">  
-                                <span>FREE</span> 
-                            </h2>
-                            <div class="price-features">  
-                                <h5>25,000 Montly Visits</h5>
-                                <p>Limited Email Support</p> 
-                            </div>
-                            <a href="#" class="btn btn-primary btn-md btn-appear"><span>Sign Up Now <i class="ion-android-arrow-forward"></i></span></a>
-                        </div>
-                    </div> 
-
-                    <div class="col-md-3 price-table">
-                        <div class="price-box"> 
-                            <h4>Startup</h4>
-                            <h2 class="price-price"> 
-                                <sup>$</sup>
-                                <span>79<span>/ mo</span></span> 
-                            </h2>
-                            <div class="price-features">  
-                                <h5>50,000 Montly Visits</h5>
-                                <p>Limited Email Support</p> 
-                                <p>24/7 Support</p>
-                                <p>1GB Bandwidth</p> 
-                            </div>
-                            <a href="#" class="btn btn-primary btn-md btn-appear"><span>Sign Up Now <i class="ion-android-arrow-forward"></i></span></a>
-                        </div>
-                    </div> 
-                    
-                    <div class="col-md-3 price-table-featured">
-                        <div class="price-box"> 
-                            <h4>Growth</h4>
-                            <h2 class="price-price"> 
-                                <sup>$</sup>
-                                <span>149<span>/ mo</span></span> 
-                            </h2>
-                            <div class="price-features">  
-                                <h5>75,000 Montly Visits</h5>
-                                <p>Email Support</p> 
-                                <p>24/7 Free Support</p>
-                                <p>5GB Bandwidth</p>
-                                <p>100GB Storage</p> 
-                                <p>Free Upgrades</p>
-                            </div>
-                            <a href="#" class="btn btn-primary btn-md btn-appear"><span>Sign Up Now <i class="ion-android-arrow-forward"></i></span></a>
-                        </div>
-                    </div> 
-                    
-                    <div class="col-md-3 price-table">
-                        <div class="price-box"> 
-                            <h4>Premium</h4>
-                            <h2 class="price-price"> 
-                                <sup>$</sup>
-                                <span>499<span>/ mo</span></span> 
-                            </h2>
-                            <div class="price-features">  
-                                <h5>225,000 Montly Visits</h5>
-                                <p>Phone Support</p> 
-                                <p>24/7 Free Support</p>
-                                <p>900GB Bandwidth</p>
-                                <p>1000TB Storage</p> 
-                            </div>
-                            <a href="#" class="btn btn-primary btn-md btn-appear"><span>Sign Up Now <i class="ion-android-arrow-forward"></i></span></a>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </section>        
-        <!-- End Price List -->   
+        <!-- End Hero -->   
         
         <!-- Footer One -->
         <footer id="footer-1">
